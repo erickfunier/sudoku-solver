@@ -3,8 +3,8 @@
  The algorithms was made in Python3 and can be executed with followed command:
     
     
-    python sudoku bfs|dfs|astar|ac3|back <filename.txt>
-    python sudoku bfs|dfs|astar|ac3|back < input.txt
+    python sudoku bfs|dfs|astar <filename.txt>
+    python sudoku bfs|dfs|astar < input.txt
     
  *Just one algorithm at a time:
  
